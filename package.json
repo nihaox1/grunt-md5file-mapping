@@ -1,10 +1,15 @@
 {
   "name": "grunt-md5file-mapping",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "js&css mapping",
   "main": "mapping.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/nihaox1/grunt-md5file-mapping.git",
+  "author": {
+    "name": "bo.cheng",
+    "email": "chen8114@sina.com"
   },
   "keywords": [
     "md5file-mapping"
