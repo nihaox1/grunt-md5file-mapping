@@ -1,0 +1,21 @@
+{
+  "name": "grunt-md5file-mapping",
+  "version": "0.0.1",
+  "description": "js&css mapping",
+  "main": "mapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "md5file-mapping"
+  ],
+  "dependencies": {
+    "grunt"     : "~0.4.5" ,
+    "md5-file"  : "3.1.1" 
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "author": "bo.cheng",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "kulorApp",
+    "dependencies": {
+        "grunt": "^0.4.5"
+    }
+}
