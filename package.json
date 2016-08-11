@@ -1,6 +1,6 @@
 {
   "name": "grunt-md5file-mapping",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "js&css mapping",
   "main": "mapping.js",
   "scripts": {

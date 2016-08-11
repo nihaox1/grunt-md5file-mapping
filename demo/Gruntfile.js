@@ -10,6 +10,12 @@ module.exports = function( grunt ) {
                 folderDist  : "dist" ,
                 ext         : ".*" ,
                 dist        : "mapping.json"
+            } ,
+            two   : {
+                folderSrc   : "src" ,
+                folderDist  : "dist" ,
+                ext         : "\.html" ,
+                dist        : "mapping.html.json"
             }
         }
       });
